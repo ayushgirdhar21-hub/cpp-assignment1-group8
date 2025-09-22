@@ -1,1 +1,5 @@
-# cpp-assignment1-group8
+Assignment Number: 1
+Group Number: 8
+Group Members:
+Ayush Ayush
+Devashish Singh
